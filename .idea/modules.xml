@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/../JS/.idea/JS.iml" filepath="$PROJECT_DIR$/../JS/.idea/JS.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JokerHD1/.idea/JokerHD1.iml" filepath="$PROJECT_DIR$/../JokerHD1/.idea/JokerHD1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../The-Linux-command-line/.idea/The-Linux-command-line.iml" filepath="$PROJECT_DIR$/../The-Linux-command-line/.idea/The-Linux-command-line.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autotest-test/.idea/autotest-test.iml" filepath="$PROJECT_DIR$/../autotest-test/.idea/autotest-test.iml" />
     </modules>
   </component>
 </project>
